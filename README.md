@@ -11,6 +11,6 @@
 
 ```
 
-Loving RISC-V and hot knowledge of computer science (like Virtual Machine, Compiler and Operating System, except Graphics, Network and Storage)
+Loving RISC-V and knowledge of computer science (like Virtual Machine, Compiler and Operating System, except Graphics, Network and Storage)
 
 Currently focusing on High Performance Computing area
